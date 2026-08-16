@@ -1,0 +1,17 @@
+section {
+  text-align: center;
+  font-size: 80px;
+  background-color: black;
+  margin: 50px 150px;
+  padding: 25px;
+  border-radius: 10px;
+}
+#icon {
+  background-color: #4b4b4b;
+  color: #b6b6b6;
+  border-radius: 50%;
+}
+#icon:hover {
+  color: #f0ffff;
+  background-color: #4197fe;
+}
