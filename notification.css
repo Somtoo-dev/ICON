@@ -8,6 +8,9 @@ div {
   border: 1px solid hidden;
   background-color: #212121;
 }
+div:hover {
+  background-color: teal;
+}
 #youtube {
   background-color: white;
   color: black;
