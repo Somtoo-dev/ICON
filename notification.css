@@ -1,10 +1,9 @@
 section {
-  /* text-align: center; */
   margin-left: 150px;
   margin-right: 150px;
 }
 div {
-  color: #777777;
+  color: thistle;
   padding: 25px;
   border: 1px solid hidden;
   background-color: #212121;
@@ -12,8 +11,9 @@ div {
 #youtube {
   background-color: white;
 }
-#opayimg {
+img {
   border-radius: 5px;
+  width: 30px;
 }
 body {
   background: linear-gradient(teal, lightgray);
